@@ -7,7 +7,7 @@ Each POC does a simple process kill by PID, you just customize it to whatever ED
 
 ## Killers
 
-| # | Name | Vendor | SymLink | IOCTL | Signer | Date |
+| # | Name | Vendor | SymLink | IOCTL | Signer | Date |  |
 |---|------|--------|-------|-------|--------|-----|-----|
 | 1 | libwasys.sys | OPSWAT | \\\\.\WasysControl | `0x22E00C` | Microsoft | 18/10/2026 |
 | 2 | MonProcessControl.sys | HONOR | \\\\.\MonProcessControl | `0x22400C` | Microsoft | 18/10/2026 |
